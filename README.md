@@ -63,7 +63,7 @@ Since the CEO has asked me to summarize any insights from patient visits. I crea
 This report provides a snapshot of metrics relating to patient encounters. 
 A patient visit chart was added where users could toggle between monthly and weekly trends to see how these metrics changed throughout the year.
 
-![Overview](Massachusetts-Hospital-Dashboard/Overview.png)
+![Overview](Reports/Overview.png)
 
 **Readmission**
 
@@ -71,14 +71,14 @@ I focused on readmissions within 30 days of discharge by patient demographics, m
 The 30-day readmission rate is a widely accepted metric in healthcare. 
 To get a comprehensive analysis of the readmission rate, I took into consideration the number of admissions vs readmissions. Some of the KPI shows changes from the previous year.
 
-![Readmission](Massachusetts-Hospital-Dashboard/Readmission.png)
+![Readmission](Reports/Readmission.png)
 
 **Procedure Cost**
 
 This page shows the breakdown of the cost of procedures by different metrics including Encounter class, insurance and procedures type. 
 Some of the KPI shows changes from the previous year. 
 
-![Procedure Cost](Massachusetts-Hospital-Dashboard/Procedure-Cost.png)
+![Procedure Cost](Reports/Procedure-Cost.png)
 
 ### Key Insights Summary
 

@@ -82,7 +82,7 @@ Some of the KPI shows changes from the previous year.
 
 ### Key Insights Summary
 
-These summaries give overall trends and patterns for the years 2011 to 2022.
+These summaries give overall trends and patterns for the years 2011 to 2022. Explore the full report [here](https://app.powerbi.com/view?r=eyJrIjoiMDhiOTI2YWYtODBjYi00ZDczLThmMTYtZWU3NDA0YjIyYzNmIiwidCI6ImQzM2ZkNjEzLTdjZmItNDZhMC04MmZlLTI5NDg1ZDUwMDFkZSJ9)
 
 1. Encounters: There are a total of 27,891 encounters recorded, with a high rate of non-admissions (96%). Only 4% of encounters result in patient admission.
 The majority of patients who visited the hospital fall into the 80+ age group, with 14,000 patients, followed by the 60-79 age group with 6,200 patients.
